@@ -58,7 +58,7 @@ Yesterday is __history__. Tomorrow is a __mystery__, but today is a __gift__! Th
 </kbd><br>
 [Elon Musk][2]<br>
 <kbd>
-<img src="https://user-images.githubusercontent.com/71509841/139484219-cbad0b72-b9c6-4711-a756-3ded8d2cf934.jpg" height="250px" width="350px">
+<img src="https://user-images.githubusercontent.com/71509841/139484219-cbad0b72-b9c6-4711-a756-3ded8d2cf934.jpg" height="350px" width="350px">
 </kbd><br>
 [J. R. R. Tolkien][3]<br>
 <kbd>
