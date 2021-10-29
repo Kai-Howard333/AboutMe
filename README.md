@@ -41,12 +41,12 @@ It's going the **Distance** that makes the **Difference**.
 Yesterday is __history__. Tomorrow is a __mystery__, but today is a __gift__! That is why it is called the __present__.
 
 ## Projects of the Past
-* ### Python
-**
-+ Web/HTML
-++
-- Java
---
+* #### Python
+
++ #### Web/HTML
+
+- #### Java
+
 
 ## Persons of Interest/Inspirations
 
