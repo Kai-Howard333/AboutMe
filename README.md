@@ -40,11 +40,13 @@ It's going the **Distance** that makes the **Difference**.
 
 Yesterday is __history__. Tomorrow is a __mystery__, but today is a __gift__! That is why it is called the __present__.
 
-<!-- ## My Favorite Websites
-
-[Dragon Ball Multiverse](https://www.dragonball-multiverse.com/en/accueil.html)
-[Read DBM](https://www.dragonball-multiverse.com/en/chapters.html?comic=page)
-[Random DBM Art][I'm a SENIOR] -->
+## Projects of the Past
+* Python
+**
++ Web/HTML
+++
+- Java
+--
 
 ## Persons of Interest/Inspirations
 
