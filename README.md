@@ -5,7 +5,7 @@
 
 [I'm a Senior]: https://www.dragonball-multiverse.com/en/fan-arts.html
 
-My name is Kai Howard. I'm a student at New Tech Institute and do time at SICTC for Computer Science with Mr. Bander. I enjoy Writing code and getting into the nitty gritty of how it works. Outside School I like to draw art of my favorite show DBZ and sometimes I'll draw something else. I also like Martial Arts, currently I am learning Jiu Jistu and Judo. Lastly when I get time to: I'll play some video games with my friends to unwind and relax, even though we end up yelling at each other for a stupid thing or another. Despite all that though we have fun through it all.
+My name is Kai Howard. I'm a student at New Tech Institute and do time at SICTC for Computer Science with Mr. Bander. I enjoy writing code and getting into the nitty gritty of how it works. After High School I plan on going to Murray State to pursue a Cyber-Security Major. After College I hope to get into a Cryptology ( The Decryption and Encryption of Coded messages ) related field. Outside of school I like to produce art of my favorite show, Dragon Ball Z, and sometimes I'll draw something else. I also enjoy Martial Arts, currently I am learning Jiu-Jitsu and Judo. Lastly when I get time to: I'll play some video games with my friends to unwind and relax, even though we all end up yelling at each other for one thing or another. Despite all that though, we have fun through it all.
 
 [1]: https://dragonball.fandom.com/wiki/Akira_Toriyama
 [2]: https://.en.wikipedia.org/wiki/Bruce_Lee
@@ -16,9 +16,11 @@ Hobbies
 
 My Hobbies Include
 
+* Coding in Python or Java
 - Drawing Traditional/Digital
-+ Video Games
 * Martial Arts (Jiu Jistu, Judo, and Kali)
++ Video Games
+
 
 My Nigthtime Routine consists of:
 
@@ -38,11 +40,11 @@ It's going the **Distance** that makes the **Difference**.
 
 Yesterday is __history__. Tomorrow is a __mystery__, but today is a __gift__! That is why it is called the __present__.
 
-## My Favorite Websites
+<!-- ## My Favorite Websites
 
 [Dragon Ball Multiverse](https://www.dragonball-multiverse.com/en/accueil.html)
 [Read DBM](https://www.dragonball-multiverse.com/en/chapters.html?comic=page)
-[Random DBM Art][I'm a SENIOR]
+[Random DBM Art][I'm a SENIOR] -->
 
 ## Persons of Interest/Inspirations
 
@@ -69,5 +71,3 @@ Yesterday is __history__. Tomorrow is a __mystery__, but today is a __gift__! Th
 | Yeet | a grunt of sorts when you throw something far | I honestly don't know I just say it when I do someting crazy or shoot people in a game with a big gun |
 | Noice | A slang word for "nice" | My way of saying Nice |
 | Cap | the covering to a bottle, or means lie | A way of saying that's a lie |
-
-Markdown Tutorial
