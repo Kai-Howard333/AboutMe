@@ -42,11 +42,16 @@ Yesterday is __history__. Tomorrow is a __mystery__, but today is a __gift__! Th
 
 ## Projects of the Past
 * #### Python
-  * sdf
+  * Decimal to Binary, Octal, and Hexadecimal
+  * Halloween Madlibs
+  * Hangman (with word file)
+  * Snake
+  * Tic Tac Toe
+  * Word Search Algorithm
 + #### Web/HTML
   + Yoga
 - #### Java
-  -
+  - Text Based Adventure Game (R.I.G.D Item shop)
 
 ## Persons of Interest/Inspirations
 
