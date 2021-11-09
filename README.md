@@ -48,6 +48,9 @@ Yesterday is __history__. Tomorrow is a __mystery__, but today is a __gift__! Th
   * Snake
   * Tic Tac Toe
   * Word Search Algorithm
+* #### LUA
+  * Pong
+  * 4-Player Pong
 + #### Web/HTML
   + Yoga
 - #### Java
